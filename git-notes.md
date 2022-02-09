@@ -30,6 +30,6 @@ The git command to view the <b>status of changes</b> to a repository is:
 
     git status
 
-The git command to view the difference between the file at the moment and how it was before the previous commit, i.e., <b>commit history</b> is:
+The git command to view the <b>commit history</b> is:
 
-    git diff
+    git log
