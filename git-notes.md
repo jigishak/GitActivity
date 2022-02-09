@@ -2,7 +2,7 @@
 
 * 1. 
  
-        Verison Control : manages changes to documents, computer program. It is a way to track the changes in code made, who made the changes and what all changes were made  
+        Verison Control System : manages changes to documents, computer program. It is a way to track the changes in code made, who made the changes and what all changes were made  
 
 * 3. 
 
@@ -21,7 +21,7 @@
         1. git pull - to get the changes made in the original repo, to keep our branch up to date ,merges the changes made in the original with our own repo
 
         2. git fetch - does not merge the changes
-        git fetch --dry-run is to see the changes made in the remote branch before merge
+        git fetch --dry-run gives the summary of commits/ deletions/ updations 
 
 * 13.
 
